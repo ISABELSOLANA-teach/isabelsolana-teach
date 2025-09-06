@@ -40,7 +40,7 @@ Isabel Solana</a></h1>
 
 - 💬 También puedes consultarme acerca de  **Bases de datos Relacionales**
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+- 📫 Contacta conmigo **isabel.solana@educa.madrid.org** o **issolana@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
