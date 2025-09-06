@@ -28,7 +28,7 @@ Isabel Solana</a></h1>
 
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🔭 Actualmente trabajo en <a href="https://www.iesluisvives.es/" target="blank">IES Luis Vives</a>
 
 - 🌱 I’m currently Working on Mobile App(React-Native)
 
@@ -80,6 +80,6 @@ Isabel Solana</a></h1>
 
 ---
 
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
+Credit: [Isabel Solana](https://github.com/isabelsolana-teach)
 
-Last Edited on: 08/08/2022
+Last Edited on: 06/09/2025
