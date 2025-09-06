@@ -30,15 +30,15 @@ Isabel Solana</a></h1>
 
 - 🔭 Actualmente trabajo en <a href="https://www.iesluisvives.es/" target="blank">IES Luis Vives</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 En este momento imparto clases de: Redes, Lenguajes de Marcas, Posicionamiento SEO y Cloud Computing.
 
-- 🤝 I’m available for freelancing.
+- 🤝 Estoy disponible para otras nuevas oportunidades como impartir clase en la Universidad.
 
 - 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- 📝 Regularmente colaboro como profesora de Programación en <a href="https://www.educacionfpydeportes.gob.es/mc/cidead/el-cidead.html" target="blank"> Centro para Innovación y Desarrollo de Educación a Distancia </a>
 
-- 💬 Ask me about **Reactjs & React-Native**
+- 💬 También puedes consultarme acerca de  **Bases de datos Relacionales**
 
 - 📫 How to reach me **saurabhchavan052@gmail.com**
 
