@@ -24,7 +24,7 @@ Isabel Solana</a></h1>
 
 <a target="_blank" align="center">
  <!-- <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"> -->
-	<img align="right" top="500" width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/45c75bfb-bcac-44ae-9b81-9dc996d7c6eb" />
+	<img align="right" top="500" width="400" height="300" alt="image" src="https://i.pinimg.com/1200x/4a/79/f2/4a79f2017ec7a9e39f39d0065b9f4556.jpg" />
 
 </a>
 
