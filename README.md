@@ -34,7 +34,7 @@ Isabel Solana</a></h1>
 
 - 🤝 Estoy disponible para otras nuevas oportunidades como impartir clase en la Universidad.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 Actualmente formándome en  <a href="[https://github.com/100rabhcsmc/100DaysOfSwift](https://aws.amazon.com/es/)" target="blank">AWS</a>
 
 - 📝 Regularmente colaboro como profesora de Programación en <a href="https://www.educacionfpydeportes.gob.es/mc/cidead/el-cidead.html" target="blank"> Centro para Innovación y Desarrollo de Educación a Distancia </a>
 
@@ -42,7 +42,7 @@ Isabel Solana</a></h1>
 
 - 📫 Contacta conmigo **isabel.solana@educa.madrid.org** o **issolana@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+<!-- - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a> -->
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
